@@ -1,0 +1,226 @@
+(dp1
+S'harvest_skull_wolf'
+p2
+S'Wolf Skulls Harvested'
+p3
+sS'arrow_hit_horse'
+p4
+S'Arrow Hit Horse'
+p5
+sS'bullet_hit_wolf'
+p6
+S'Bullet Hit Wolf'
+p7
+sS'headshot'
+p8
+S'Headshots'
+p9
+sS'death_fall'
+p10
+S'Deaths from Falls'
+p11
+sS'shotgun_hit_building'
+p12
+S'Shotgun Hit Building'
+p13
+sS'harvest_skull_human'
+p14
+S'Human Skulls Harvested'
+p15
+sS'kill_player'
+p16
+S'Players Killed'
+p17
+sS'item_drop'
+p18
+S'Items Dropped'
+p19
+sS'death_entity'
+p20
+S'Death from Entities'
+p21
+sS'kill_bear'
+p22
+S'Bears Killed'
+p23
+sS'bullet_hit_stag'
+p24
+S'Bullet Hit Deer'
+p25
+sS'arrow_hit_chicken'
+p26
+S'Arrow Hit Chicken'
+p27
+sS'kill_horse'
+p28
+S'Horses Killed'
+p29
+sS'arrow_hit_player'
+p30
+S'Arrow Hit Player'
+p31
+sS'arrow_fired'
+p32
+S'Arrows Fired'
+p33
+sS'bullet_hit_boar'
+p34
+S'Bullet Hit Boar'
+p35
+sS'bullet_hit_player'
+p36
+S'Bullet Hit Player'
+p37
+sS'harvest_fat_animal'
+p38
+S'Animal Fat Harvested'
+p39
+sS'death_suicide'
+p40
+S'Suicides'
+p41
+sS'arrow_hit_building'
+p42
+S'Arrow Hit Building'
+p43
+sS'shotgun_fired'
+p44
+S'Shotgun Fired'
+p45
+sS'bullet_fired'
+p46
+S'Shots Fired'
+p47
+sS'kill_boar'
+p48
+S'Boars Killed'
+p49
+sS'arrow_hit_stag'
+p50
+S'Arrow Hit Deer'
+p51
+sS'harvest_wolfmeat_raw'
+p52
+S'Wolf Meat Harvested'
+p53
+sS'arrow_hit_entity'
+p54
+S'Arrow Hit Entity'
+p55
+sS'bullet_hit_sign'
+p56
+S'Bullet Hit Sign'
+p57
+sS'harvest_stones'
+p58
+S'Stones Harvested'
+p59
+sS'harvest_wood'
+p60
+S'Wood Harvested'
+p61
+sS'bullet_hit_entity'
+p62
+S'Bullet Hit Entity'
+p63
+sS'harvest_bone_fragments'
+p64
+S'Bone Fragments Harvested'
+p65
+sS'death_bear'
+p66
+S'Deaths from Bears'
+p67
+sS'deaths'
+p68
+S'Deaths'
+p69
+sS'blueprint_studied'
+p70
+S'Blueprints Studied'
+p71
+sS'harvest_humanmeat_raw'
+p72
+S'Human Meat Harvested'
+p73
+sS'shotgun_hit_player'
+p74
+S'Shotgun Hit Player'
+p75
+sS'harvest_cloth'
+p76
+S'Cloth Harvested'
+p77
+sS'kill_wolf'
+p78
+S'Wolves Killed'
+p79
+sS'bullet_hit_bear'
+p80
+S'Bullet Hit Bear'
+p81
+sS'bullet_hit_corpse'
+p82
+S'Bullet Hit Corpse'
+p83
+sS'bullet_hit_building'
+p84
+S'Bullet Hit Building'
+p85
+sS'wounded_healed'
+p86
+S'Healed while wounded'
+p87
+sS'arrow_hit_boar'
+p88
+S'Arrow Hit Boar'
+p89
+sS'kill_stag'
+p90
+S'Deer Killed'
+p91
+sS'kill_chicken'
+p92
+S'Chickens Killed'
+p93
+sS'death_wolf'
+p94
+S'Deaths from Wolves'
+p95
+sS'arrow_hit_bear'
+p96
+S'Arrow Hit Bear'
+p97
+sS'bullet_hit_horse'
+p98
+S'Bullet Hit Horse'
+p99
+sS'wounded_assisted'
+p100
+S'Helped while wounded'
+p101
+sS'bullet_hit_playercorpse'
+p102
+S'Bullet Hit Player Corpse'
+p103
+sS'arrow_hit_wolf'
+p104
+S'Arrow Hit Wolf'
+p105
+sS'harvest_metal_ore'
+p106
+S'Metal Ore Harvested'
+p107
+sS'shotgun_hit_entity'
+p108
+S'Shotgun Hit Entity'
+p109
+sS'harvest_sulfur_ore'
+p110
+S'Sulfur Ore Harvested'
+p111
+sS'wounded'
+p112
+S'Times wounded'
+p113
+s.
